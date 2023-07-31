@@ -15,3 +15,12 @@ Caso deseje acessar a monografia completa, [clique aqui.](https://acervodigital.
 ## Linguagem utilizada
 
 * Python
+
+## Arquivo base
+
+* Clique [aqui](https://github.com/leticiadluz/analise_dados_monografia/blob/main/dadosgestantes.csv)
+
+## Resultados das análises
+
+* Clique [aqui](https://github.com/leticiadluz/analise_dados_monografia/blob/main/Gestantes.ipynb)
+
