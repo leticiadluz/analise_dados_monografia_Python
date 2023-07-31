@@ -1,6 +1,8 @@
 # Analise de dados clínicos 
 
-Com o intuito de aprimorar minhas habilidades em limpeza e manipulação de dados em Python, assim como aprofundar meus conhecimentos em estatística descritiva, utilizei dados clínicos extraídos da minha monografia, os quais estão disponíveis [neste link.](https://github.com/leticiadluz/monografia/blob/main/dadosclinicosgestantes.pdf)
+Com o intuito de aprimorar minhas habilidades em limpeza e manipulação de dados em Python, assim como aprofundar meus conhecimentos em estatística descritiva, utilizei dados clínicos da minha monografia para treinamento no Jupyter Notebook.
+
+Os dados clínicos completos estão disponíveis [neste link.](https://github.com/leticiadluz/monografia/blob/main/dadosclinicosgestantes.pdf)
 
 O objetivo deste estudo foi verificar se existe evidência de transmissão vertical do **SARS-CoV-2**. Para isso, amostras de líquidos amnióticos foram coletadas durante o período de 2020 à 2021. Além disso, características demográficas, sinais e sintomas, condições médicas e outras informações relevantes foram coletadas das pacientes.
 
