@@ -1,4 +1,4 @@
-# Analise de dados clínicos 
+# Análise de dados clínicos 
 
 Com o intuito de aprimorar minhas habilidades em limpeza e manipulação de dados em Python, assim como aprofundar meus conhecimentos em estatística descritiva, utilizei dados clínicos da minha monografia para treinamento no Jupyter Notebook.
 
@@ -18,7 +18,7 @@ Caso deseje acessar a monografia completa, [clique aqui.](https://acervodigital.
 
 * Python
 
-## Arquivo base
+## DataSet
 
 * Clique [aqui](https://github.com/leticiadluz/analise_dados_monografia/blob/main/dadosgestantes.csv)
 
