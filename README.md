@@ -1,6 +1,6 @@
 # Análise de dados clínicos 
 
-Com o intuito de aprimorar minhas habilidades em  manipulação de dados em Python, estatística descritiva, bem como, treinar conceitos básicos de machine learning, utilizei dados clínicos da minha monografia para treinamento no Jupyter Notebook.
+**Com o intuito de aprimorar minhas habilidades em  manipulação de dados em Python, estatística descritiva, bem como, treinar conceitos básicos de machine learning, utilizei dados clínicos da minha monografia para treinamento no Jupyter Notebook.**
 
 Os dados clínicos completos estão disponíveis [neste link.](https://github.com/leticiadluz/monografia/blob/main/dadosclinicosgestantes.pdf)
 
